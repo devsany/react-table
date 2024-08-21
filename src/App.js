@@ -1,9 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import BasicTable from "./component/BasicTable";
 
 function App() {
   return (
     <div className="App">
+      <BasicTable />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
