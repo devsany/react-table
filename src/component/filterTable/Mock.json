@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Janine",
+        "last_name": "Settle",
+        "email": "jsettle0@jimdo.com",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Hermann",
+        "last_name": "Coomes",
+        "email": "hcoomes1@dmoz.org",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Hillery",
+        "last_name": "McKendry",
+        "email": "hmckendry2@digg.com",
+        "gender": "Genderfluid"
+    },
+    {
+        "id": 4,
+        "first_name": "Dilly",
+        "last_name": "Gommes",
+        "email": "dgommes3@ted.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Zia",
+        "last_name": "Harte",
+        "email": "zharte4@delicious.com",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Jeannette",
+        "last_name": "Hampshire",
+        "email": "jhampshire5@elegantthemes.com",
+        "gender": "Bigender"
+    },
+    {
+        "id": 7,
+        "first_name": "Kerry",
+        "last_name": "Evens",
+        "email": "kevens6@walmart.com",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Urban",
+        "last_name": "Pattie",
+        "email": "upattie7@newsvine.com",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Gradey",
+        "last_name": "McNamara",
+        "email": "gmcnamara8@howstuffworks.com",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "John",
+        "last_name": "Huitson",
+        "email": "jhuitson9@huffingtonpost.com",
+        "gender": "Male"
+    }
+]
